@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\funks\Documents\Visual Studio 2017\Projects\UpdatedClicker\AutoClicker\obj\Debug\
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\
 AutoClicker
 none
 false
 DEBUG;TRACE
-C:\Users\funks\Documents\Visual Studio 2017\Projects\UpdatedClicker\AutoClicker\App.xaml
-3-1598351352
+D:\PersonalWorkspace\AutoClicker2\App.xaml
+5-1065392755
 
-10220129698
-131726951844
-MainWindow.xaml;Views\MultiClickWindow.xaml;Views\SingleClickWindow.xaml;
+13-1850036138
+701769694039
+MainWindow.xaml;Views\MainView.xaml;Views\MultiClickView.xaml;Views\SingleClickView.xaml;Views\TommyTest.xaml;
 
 False
 

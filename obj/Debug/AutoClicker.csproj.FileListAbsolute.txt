@@ -17,3 +17,35 @@ C:\Users\funks\Documents\Visual Studio 2017\Projects\UpdatedClicker\AutoClicker\
 C:\Users\funks\Documents\Visual Studio 2017\Projects\UpdatedClicker\AutoClicker\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
 C:\Users\funks\Documents\Visual Studio 2017\Projects\UpdatedClicker\AutoClicker\obj\Debug\AutoClicker.exe
 C:\Users\funks\Documents\Visual Studio 2017\Projects\UpdatedClicker\AutoClicker\obj\Debug\AutoClicker.pdb
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\Views\MainView.g.cs
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\Views\MultiClickView.g.cs
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\Views\SingleClickView.g.cs
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\App.g.cs
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker_MarkupCompile.cache
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker_MarkupCompile.lref
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\AutoClicker.exe.config
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\AutoClicker.exe
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\AutoClicker.pdb
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\Prism.dll
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\Prism.Wpf.dll
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\System.Windows.Interactivity.dll
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\Prism.xml
+D:\PersonalWorkspace\AutoClicker2\bin\Debug\Prism.Wpf.xml
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\MainWindow.g.cs
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\MainWindow.baml
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\Views\MainView.baml
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\Views\MultiClickView.baml
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\Views\SingleClickView.baml
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker.g.resources
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker.Properties.Resources.resources
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker.csproj.GenerateResource.Cache
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker.csproj.CoreCompileInputs.cache
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker.exe
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker.pdb
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\Views\TommyTest.g.cs
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\Views\TommyTest.baml
+D:\PersonalWorkspace\AutoClicker2\obj\Debug\AutoClicker.csprojResolveAssemblyReference.cache

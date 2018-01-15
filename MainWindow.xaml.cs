@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AutoClicker.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,16 +24,7 @@ namespace AutoClicker
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void ExitButton_Click(object sender, RoutedEventArgs e)
-        {
-            System.Windows.Application.Current.Shutdown();
-        }
-
-        private void SingleButton_Click(object sender, RoutedEventArgs e)
-        {
-
+            DataContext = new MainViewModel();
         }
     }
 }
